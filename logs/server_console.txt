@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\adria\OneDrive\Escritorio\UNI\SSII\PAIs\1\Codigo\server\server.py", line 93, in <module>
+    main()
+  File "C:\Users\adria\OneDrive\Escritorio\UNI\SSII\PAIs\1\Codigo\server\server.py", line 85, in main
+    continue
+KeyboardInterrupt
+Server on 127.0.0.1:9009  (Ctrl+C para salir)
+^C
