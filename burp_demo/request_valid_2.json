@@ -1,0 +1,11 @@
+{
+  "type": "transfer",
+  "user": "alice",
+  "payload": {
+    "raw": "ES3333,ES4444,250"
+  },
+  "ts": 1764006296,
+  "seq": 2,
+  "nonce": "a14a56a31c9fe49e0a92516d",
+  "mac": "bba9a8c6e1a7957f361c2f87b39db5c4da6d099c3df576b6a96258e2dd28b784"
+}

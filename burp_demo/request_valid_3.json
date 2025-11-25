@@ -1,0 +1,11 @@
+{
+  "type": "transfer",
+  "user": "bob",
+  "payload": {
+    "raw": "ES5555,ES6666,500"
+  },
+  "ts": 1764006296,
+  "seq": 1,
+  "nonce": "91588dd44a0cd44a76adbaf2",
+  "mac": "282562a1317e838e376cc4c0dcbd482657007aef820b873c3a6013979ad29601"
+}
